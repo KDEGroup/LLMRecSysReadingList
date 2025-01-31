@@ -1,6 +1,7 @@
 # Shilling Attack and Defense on Recommender System (Updating)
 
 ### 👉 Table of Contents 👈
+- [LLMRecSys](#LLMRecSys)
 - [Attack](#attack)
   * [2024](#2024)
   * [2023](#2023)
@@ -46,6 +47,12 @@
   * [2020-2021](#2020-2021)
 - [Library](#library)
   * [2023](#2023-3)
+
+# LLMRecSys
+## 2024
+
+- **RAH! RecSys–Assistant–Human: A Human-Centered Recommendation Framework With LLM Agents**，*TCSS*.[📝paper](https://ieeexplore.ieee.org/document/10572486/)[📃code](https://github.com/TheRepoForRAH/RAH).
+
 
 # Attack
 
