@@ -4,16 +4,16 @@
 - [Survey](#Survey)
   * [2024](#2024)
  
-- [Traditional RecSys](#LLMRecSys)
+- [Traditional RecSys](#TraditionalRecSys)
   * [2024](#2024-1)
  
-- [Generative RecSys](#Generative RecSys)
+- [Generative RecSys](#GenerativeRecSys)
   * [2024](#2024-2)
  
-- [Conversational RecSys](#Conversational RecSys)
+- [Conversational RecSys](#ConversationalRecSys)
   * [2024](#2024-3)
  
-- [Agent RecSys]
+- [Agent RecSys](AgentRecSys)
   * [2024](#2024-4)
 
 - [Dataset](#Dataset)
@@ -23,7 +23,7 @@
 ## 2024
 - **Recommender Systems in the Era of Large Language Models (LLMs)**, *TKDE*.[📝paper](https://ieeexplore.ieee.org/document/10506571)
 
-# Traditional RecSys
+# TraditionalRecSys
 ## 2024
 - **Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks**, *AAAI*. [📝paper](https://doi.org/10.1609/aaai.v38i8.28678).
 - **LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs**, *AAAI*. [📝paper](https://doi.org/10.1609/aaai.v38i17.29887).
@@ -55,11 +55,11 @@
 - **TLRec: A Transfer Learning Framework to Enhance Large Language Models for Sequential Recommendation Tasks**, *RecSys*.[📝paper](https://dl.acm.org/doi/10.1145/3640457.3691710).
 - **Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models**, *SIGIR*.[📝paper](https://dl.acm.org/doi/10.1145/3626772.3657782).
 
-# Generative RecSys
+# GenerativeRecSys
 ## 2024
 - **Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**, *ACL*. [📝paper](https://aclanthology.org/2024.acl-long.295/).
 
-# Conversational RecSys
+# ConversationalRecSys
 ## 2024
 - **LGCRS: LLM-Guided Representation-Enhancing for Conversational Recommender System**, * *.[📝paper](https://link.springer.com/chapter/10.1007/978-3-031-72356-8_6).
 - **GenUI(ne) CRS: UI Elements and Retrieval-Augmented Generation in Conversational Recommender Systems with LLMs**, *RecSys*.[📝paper](https://doi.org/10.1145/3640457.3691697).
@@ -67,7 +67,7 @@
 - **Towards Symbiotic Recommendations: Leveraging LLMs for Conversational Recommendation Systems**, *RecSys*.[📝paper](https://doi.org/10.1145/3640457.368802).
 - **Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**, *SIGIR*.[📝paper](https://doi.org/10.1145/3626772.3657924), [📃code](https://github.com/dayuyang1999/Behavior-Alignment).
 
-# Agent RecSys
+# AgentRecSys
 ## 2024
 - **RecMind: Large Language Model Powered Agent For Recommendation**, *NAACL*. [📝paper](https://aclanthology.org/2024.findings-naacl.271/).
 
