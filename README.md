@@ -2,9 +2,9 @@
 
 ### 👉 Table of Contents 👈
 - [LLMRecSys](#LLMRecSys)
-  * [2024](#2024)
+  * [2024](#2024-0)
 - [Attack](#attack)
-  * [2024](#2024)
+  * [2024](#2024-1)
   * [2023](#2023)
   * [2022](#2022)
   * [2021](#2021)
@@ -52,7 +52,7 @@
 # LLMRecSys
 ## 2024
 
-- **RAH! RecSys–Assistant–Human: A Human-Centered Recommendation Framework With LLM Agents**，*TCSS*.[📝paper](https://ieeexplore.ieee.org/document/10572486/)[📃code](https://github.com/TheRepoForRAH/RAH).
+- **RAH! RecSys–Assistant–Human: A Human-Centered Recommendation Framework With LLM Agents**，*TCSS*.[📝paper](https://ieeexplore.ieee.org/document/10572486/), [📃code](https://github.com/TheRepoForRAH/RAH).
 
 
 # Attack
